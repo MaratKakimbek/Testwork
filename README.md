@@ -1,2 +1,2 @@
 # Testwork
-Test work with own fake json server
+Test work with weather API
